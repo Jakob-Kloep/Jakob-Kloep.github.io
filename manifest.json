@@ -1,0 +1,18 @@
+{
+  "short_name": "PickyPlate",
+  "name": "PickyPlate – jeder isst, was er mag",
+  "description": "Einmal kochen – jeder isst, was er mag. Rezepte, Wochenplan und Einkauf für Haushalte, in denen nicht allen dasselbe schmeckt.",
+  "lang": "de",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" },
+    { "src": "/logo192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/logo512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/logo512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#D9622B",
+  "background_color": "#FFF8F0"
+}
